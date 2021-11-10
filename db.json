@@ -1,0 +1,70 @@
+{
+  "apartment": [
+    {
+      "id": "1",
+      "type": "house",
+      "owner": {
+        "fullname": "Tony Corleone",
+        "email": "tony.corleone@realestate.com",
+        "phone": "+1 587-472-8457"
+      },
+      "roomCount": 2,
+      "squares": 120,
+      "address": {
+        "city": "Los Santos",
+        "country": "USA",
+        "street": "Procopio Drive",
+        "number": "18"
+      },
+      "price": {
+        "amount": 300000,
+        "currency": "$"
+      },
+      "imgSRc": "https://media.9mods.net/assets/thumbs/2021/03/ymap-fivem-menyoo-paleto-bay-house-w-upgraded-garden-with-wooden-fence-0.png"
+    },
+    {
+      "id": "2",
+      "type": "flat",
+      "owner": {
+        "fullname": "Lang Buddha",
+        "email": "lang.buddha@roostersrest.com",
+        "phone": "+1 557-755-1516"
+      },
+      "roomCount": 2,
+      "squares": 110,
+      "address": {
+        "city": "Los Santos",
+        "country": "USA",
+        "street": "Alta Street",
+        "number": "57"
+      },
+      "price": {
+        "amount": 800000,
+        "currency": "$"
+      },
+      "imgSRc": "https://www.gamersdecide.com/sites/default/files/authors/u151780/2.jpg"
+    },
+    {
+      "id": "3",
+      "type": "cottage",
+      "owner": {
+        "fullname": "Avon Barksdale",
+        "email": "avon.barksdale@nevermind.com",
+        "phone": "+1 555-876-5676"
+      },
+      "roomCount": 3,
+      "squares": 200,
+      "address": {
+        "city": "Los Santos",
+        "country": "USA",
+        "street": "Vespucci blvd",
+        "number": "5"
+      },
+      "price": {
+        "amount": 900000,
+        "currency": "$"
+      },
+      "imgSRc": "https://media.9mods.net/assets/thumbs/2021/03/ymap-fivem-menyoo-paleto-bay-house-w-upgraded-garden-with-wooden-fence-0.png"
+    }
+  ]
+}
