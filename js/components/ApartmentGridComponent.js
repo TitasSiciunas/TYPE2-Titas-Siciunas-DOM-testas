@@ -7,14 +7,31 @@ class ApartmentGridComponent {
     this.init();
   }
 
+  saveApartments = apartments => {
+    this.state = { apartments, loading: false };
+
+    this.render();
+  }
+
+  showError = msg => alert(msg);
+
+  fetchApartments = () => API.fetchApartments(this.saveApartments, this.showError);
+
   init = () => {
+    this.state.loading = true;
+    this.fetchApartments();
     this.htmlElement = document.createElement('div');
 
     this.render();
   }
 
   render = () => {
-    this.htmlElement.innerHTML = 'dkhgskjg';
+    const { loading } = this.state;
+    if (loading) {
+      this.htmlElement.innerHTML = 'sunčiama...'
+    } else {
+      this.htmlElement.innerHTML = 'parsiųsta!';
+    }
   }
 
 }
