@@ -15,13 +15,13 @@ class API {
   }
 }
 
-API.fetchApartments(
-  (duomenys) => console.log('Duomenys gauti', duomenys),
-  (klaida) => console.error('Klaida', klaida)
-)
+// API.fetchApartments(
+//   (duomenys) => console.log('Duomenys gauti', duomenys),
+//   (klaida) => console.error('Klaida', klaida)
+// )
 
-API.deleteApartment(
-  '1',
-  (duomenys) => console.log('Ištrinta', duomenys),
-  (klaida) => console.error('Klaida', klaida)
-)
+// API.deleteApartment(
+//   '1',
+//   (duomenys) => console.log('Ištrinta', duomenys),
+//   (klaida) => console.error('Klaida', klaida)
+// )
