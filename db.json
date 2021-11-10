@@ -20,7 +20,7 @@
         "amount": 300000,
         "currency": "$"
       },
-      "imgSRc": "https://media.9mods.net/assets/thumbs/2021/03/ymap-fivem-menyoo-paleto-bay-house-w-upgraded-garden-with-wooden-fence-0.png"
+      "imgSrc": "https://media.9mods.net/assets/thumbs/2021/03/ymap-fivem-menyoo-paleto-bay-house-w-upgraded-garden-with-wooden-fence-0.png"
     },
     {
       "id": "2",
@@ -42,7 +42,7 @@
         "amount": 800000,
         "currency": "$"
       },
-      "imgSRc": "https://www.gamersdecide.com/sites/default/files/authors/u151780/2.jpg"
+      "imgSrc": "https://www.gamersdecide.com/sites/default/files/authors/u151780/2.jpg"
     },
     {
       "id": "3",
@@ -64,7 +64,7 @@
         "amount": 850000,
         "currency": "€"
       },
-      "imgSRc": "https://media.9mods.net/assets/thumbs/2021/03/ymap-fivem-menyoo-paleto-bay-house-w-upgraded-garden-with-wooden-fence-0.png"
+      "imgSrc": "https://media.9mods.net/assets/thumbs/2021/03/ymap-fivem-menyoo-paleto-bay-house-w-upgraded-garden-with-wooden-fence-0.png"
     }
   ]
 }

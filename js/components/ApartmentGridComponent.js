@@ -19,7 +19,7 @@ class ApartmentGridComponent {
 
   wrapChild = element => {
     const wrapper = document.createElement('div');
-    wrapper.className = 'col-12, col-sm-6, col-lg-4, col-xl-3';
+    wrapper.className = 'col-12 col-sm-6 col-lg-4 col-xl-3';
     wrapper.append(element);
     return wrapper;
   }
